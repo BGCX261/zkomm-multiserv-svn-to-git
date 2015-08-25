@@ -1,0 +1,1 @@
+\Python25\pyuic4.bat ..\ui\servidorUI_2.ui > servidorUI_2.py

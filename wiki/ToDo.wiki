@@ -1,0 +1,18 @@
+#summary Para Hacer Próxima Version
+
+= Introduccion =
+
+Estos son los items y los para-hacer en la siguiente versión.
+
+
+= Detalles =
+
+==*48bytes*==
+- Terminar de hacer el modelo, la lista y los objetos de "procesos".
+
+==*labadf*==
+- Corregir el bug de los "nodos".
+- Realizar la comunicación de la lista de procesos entre nodos.
+
+==*ing.mac*==
+- ==_Desatrasarse del desarrollo realizado._==
